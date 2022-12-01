@@ -1,5 +1,6 @@
 # seabattle
 Sea Battle For 6 x 6 field
+
 Морской бой.
 В качестве исходника взят код отсюда
 https://dtf.ru/flood/187827-python-napishem-morskoy-boy-s-dostoynym-sopernikom-ii
